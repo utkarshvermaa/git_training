@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a new line in the file Alice.txt
+Then git checkout change_alice, change Alice.txt and commit. 
