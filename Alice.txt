@@ -1,4 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This is a new line in the file Alice.txt
-Then git checkout change_alice, change Alice.txt and commit.
-some more changes for rebasing. 
+<<<<<<< HEAD
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<======
+I made this change via Github.
+>>>>>>> 92f873f78cd09ec3595053111dd34aa8cfdd5715
