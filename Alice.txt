@@ -1,6 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<======
 I made this change via Github.
->>>>>>> 92f873f78cd09ec3595053111dd34aa8cfdd5715
+Ye lo ek aur change.
