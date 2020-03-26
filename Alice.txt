@@ -3,4 +3,5 @@ I made this change via Github.
 Ye lo ek aur change.
 Ye wala change git fetch ke liye :* 
 Couldn't carry out pull. Again changing.
-Pulling with conflicts.
+Pulling with conflicts
+Local changes on Alice for pull rebase.
